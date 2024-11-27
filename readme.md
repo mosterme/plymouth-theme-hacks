@@ -2,6 +2,16 @@
 
 Nice replacement pictures for the Plymouth bgrt-fallback and background-tile images.
 
+## Screenshots
+
+<img src="screenshot/screenshot-skull.png" alt="Intel" title="Skulltrail" width="240"/>
+<img src="screenshot/screenshot-nuc.png" alt="NUC" title="Enthusiast" width="240"/>
+<img src="screenshot/screenshot-suse.png" alt="SuSE" title="Geeko" width="240"/>
+<img src="screenshot/screenshot-tech.png" alt="Tech" title="Lore" width="240"/>
+<img src="screenshot/screenshot-tosh.png" alt="Apple" title="Tosh" width="240"/>
+<img src="screenshot/screenshot-tux.png" alt="Silent" title="Tux" width="240"/>
+
+&#160;
 
 ## Prerequisites
 
