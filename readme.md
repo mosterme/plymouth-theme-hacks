@@ -33,6 +33,40 @@ You will also need to be able to get **root** permissions with **sudo**.
 1. sudo cp ***< tile >*** /usr/share/plymouth/themes/spinner/background-tile.png
 2. sudo plymouth-set-default-theme -R spinner
 
+
+### Plymouth Theme Hack Installer
+
+* You can also use the provided **install.sh** for an automatic installation process.
+
+```
+$ ./install.sh
+
+ +-------------------------------+
+ | Plymouth Theme Hack Installer |
+ +-------------------------------+
+
+available hacks (6):
+
+1) bgrt-fallback/skulltrail.png
+2) bgrt-fallback/enthusiast.png
+3) bgrt-fallback/suse-geeko.png
+4) bgrt-fallback/tech-lore.png
+5) background-tile/bootsplash-tosh-1080.png
+6) background-tile/bootsplash-tux-1080.png
+
+choose your hack (1-6): 4
+
+selected hack: bgrt-fallback/tech-lore.png
+
+sudo cp bgrt-fallback/tech-lore.png /usr/share/plymouth/themes/spinner/bgrt-fallback.png
+
+sudo plymouth-set-default-theme -R bgrt
+
+Regenerating initrd image ...
+[ OK ]
+
+```
+
 &#160;
 
 ## Links
