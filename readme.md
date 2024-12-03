@@ -45,7 +45,7 @@ $ ./install.sh
  | Plymouth Theme Hack Installer |
  +-------------------------------+
 
-available hacks (6):
+available hacks: 6
 
 1) bgrt-fallback/skulltrail.png
 2) bgrt-fallback/enthusiast.png
