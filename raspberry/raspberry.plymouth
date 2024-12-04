@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=raspberry
+Description=Custom Raspberry Pi Desktop Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/raspberry
+ScriptFile=/usr/share/plymouth/themes/raspberry/raspberry.script
