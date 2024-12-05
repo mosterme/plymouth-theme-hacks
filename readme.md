@@ -45,7 +45,7 @@ $ ./install.sh
  | Plymouth Theme Hack Installer |
  +-------------------------------+
 
-available hacks (6):
+available hacks: 6
 
 1) bgrt-fallback/skulltrail.png
 2) bgrt-fallback/enthusiast.png
@@ -71,5 +71,4 @@ Regenerating initrd image ...
 
 ## Links
 * [Arch Linux Wiki - Plymouth](https://wiki.archlinux.org/title/Plymouth)
-* [Fedora Project Wiki - Better Startup](https://fedoraproject.org/wiki/Features/BetterStartup)
 * [Gentoo Linux - Plymouth/Theme creation](https://wiki.gentoo.org/wiki/Plymouth/Theme_creation)
