@@ -47,8 +47,8 @@ $ ./install.sh
 
 available hacks: 6
 
-1) bgrt-fallback/skulltrail.png
-2) bgrt-fallback/enthusiast.png
+1) bgrt-fallback/enthusiast.png
+2) bgrt-fallback/skulltrail.png
 3) bgrt-fallback/suse-geeko.png
 4) bgrt-fallback/tech-lore.png
 5) background-tile/bootsplash-tosh-1080.png
