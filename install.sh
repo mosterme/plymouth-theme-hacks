@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 EXE=true
 NUM=$(ls bgrt-fallback/* background-tile/* | wc -l)
@@ -40,4 +40,3 @@ do
       ;;
   esac
 done
-
